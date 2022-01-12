@@ -1,2 +1,1 @@
-# st-cp
-styled components example
+# styled components example
